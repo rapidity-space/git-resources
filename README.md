@@ -30,8 +30,8 @@ Version control with git. Why? How? What else?
 [Cheat Sheet #1](https://images.datacamp.com/image/upload/v1656573882/Marketing/Blog/git_cheat_sheet.pdf)
 
 ## Simulators
-[https://git-school.github.io/visualizing-git/](https://git-school.github.io/visualizing-git/)
-[https://learngitbranching.js.org/](https://learngitbranching.js.org/)
+- [https://git-school.github.io/visualizing-git/](https://git-school.github.io/visualizing-git/)
+- [https://learngitbranching.js.org/](https://learngitbranching.js.org/)
 
 ## Github
 A host for remote git repositories which provides numerous additional features/services
@@ -43,9 +43,9 @@ A host for remote git repositories which provides numerous additional features/s
 4. Set up SSH keys allow push to remote repo.
    
 ### Editing
-[Github markdown syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[Mermaid diagram intro](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
-[Mermaid diagram syntax](https://mermaid.js.org/intro/syntax-reference.html)
+- [Github markdown syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Mermaid diagram intro](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
+- [Mermaid diagram syntax](https://mermaid.js.org/intro/syntax-reference.html)
 
 ### Github Actions
 Github Actions is Github's CI/CD system which can be used for building, testing, and deploying software, but also for other automation tasks. 
