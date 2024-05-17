@@ -45,7 +45,7 @@ A host for remote git repositories which provides numerous additional features/s
 
 ### Github Actions
 Github Actions is Github's CI/CD system which can be used for building, testing, and deploying software, but also for other automation tasks. 
-[Quick Start](https://docs.github.com/en/actions/quickstart)
-[Workflows](https://docs.github.com/en/actions/using-workflows)
-[Github Actions with MATLAB](https://www.mathworks.com/videos/how-to-run-matlab-in-github-actions-1680591754005.html)
+- [Quick Start](https://docs.github.com/en/actions/quickstart)
+- [Workflows](https://docs.github.com/en/actions/using-workflows)
+- [Github Actions with MATLAB](https://www.mathworks.com/videos/how-to-run-matlab-in-github-actions-1680591754005.html)
 
