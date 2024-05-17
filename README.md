@@ -8,8 +8,8 @@ Version control with git. Why? How? What else?
 ```mermaid
   flowchart LR;
       working_dir-->|git add|staged;
-      staged-->|git rm|working_dir;
       staged-->|git commit|local;
+      local-->|git commit --amend|local;
       local-->|git push|remote;
       remote-->|git pull|local;
 ```
