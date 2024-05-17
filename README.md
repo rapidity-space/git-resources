@@ -17,7 +17,9 @@ Version control with git. Why? How? What else?
 
 ## Commands
 - ```git clone <repo>``` creates a local clone of an existing remote repository.
+- ```git log``` show the commits.
 - ```git add <file>``` stages an existing file for commit.  
+- ```git status``` show the staged files and files with changes.
 - ```git commit -m <message>``` cerate a local commit of staged files.
 - ```git commit``` create a local commit of staged files with a message interactively written in an editor.
 - ```git pull``` pulls new commits from the remote repository to the local repository.
