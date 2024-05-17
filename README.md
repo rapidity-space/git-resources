@@ -29,6 +29,10 @@ Version control with git. Why? How? What else?
 ## Cheat Sheets
 [Cheat Sheet #1](https://images.datacamp.com/image/upload/v1656573882/Marketing/Blog/git_cheat_sheet.pdf)
 
+## Simulators
+[https://git-school.github.io/visualizing-git/](https://git-school.github.io/visualizing-git/)
+[https://learngitbranching.js.org/](https://learngitbranching.js.org/)
+
 ## Github
 A host for remote git repositories which provides numerous additional features/services
 
